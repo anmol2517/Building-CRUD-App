@@ -111,3 +111,14 @@ crud-app/
 # Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or fixes.
+
+# Sample Images 'Create - Read - Update - Delete'.
+
+![create](https://github.com/anmol2517/Building-CRUD-App-/assets/110680449/dfefd311-4134-461d-9e07-30e7fabdcff8)
+
+
+![update](https://github.com/anmol2517/Building-CRUD-App-/assets/110680449/27dcb3b5-825d-4e2e-b264-3bf6bf07977c)
+
+
+![all records](https://github.com/anmol2517/Building-CRUD-App-/assets/110680449/b7bfaa13-cbe6-47db-abc0-7706123edf7c)
+
